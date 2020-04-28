@@ -3,7 +3,7 @@
 ### Before start you need to install ifconfig
 
 ```
-sudo apt install  net-tools
+sudo apt install net-tools
 ```
 ###### then 
 ```
